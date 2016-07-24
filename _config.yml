@@ -26,12 +26,12 @@ version: 1.0.0
 author:
   name: 绿裙摆 lvqunbai
   description: 千里之行 始于足下 <br> 
-  description: test line2
   # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   gravatar: bda34c165bff34e4b2433f0c1bd48d0a  # md5 hash of your email address
   contact:
     linkedin: https://www.linkedin.com/in/wanzhu-chen-94595571
     github: https://github.com/cwz753
+    email: http://www.google.com/recaptcha/mailhide/d?k=017s8DwjJLLtI1UXyQBD_zwg==&c=EXw5Ja0rbWhS-V3DXne1GE-fVi241LDOMarpO4-xtzc=
     # email:  cwz753@hotmail.com
     # github:    https://github.com/codinfox
     # linkedin:  https://www.linkedin.com/nhome/
