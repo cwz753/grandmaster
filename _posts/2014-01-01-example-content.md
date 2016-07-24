@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Example content
-tag: 2
-category: example
+tags:
+-3
+categories:
+-example
 ---
 
 
