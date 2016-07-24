@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+tag: 2
+category: example
 ---
 
 
