@@ -1,6 +1,8 @@
 ---
 layout: post
 title: This is the first Blog
+tags:[github,testtag2,jekyll]
+category: programming1
 ---
 
 

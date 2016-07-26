@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+category: programming
+tags:[testtag2,testtag1]
 ---
 
 
