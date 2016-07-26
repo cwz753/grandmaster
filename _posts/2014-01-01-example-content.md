@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Example content
-tags:
--3
-categories:
--example
+comments:true
+category:misc
+tags: jekyll
 ---
 
 
