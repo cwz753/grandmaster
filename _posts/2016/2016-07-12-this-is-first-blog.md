@@ -1,9 +1,8 @@
 ---
 layout: post
 title: This is the first Blog
-tags: m n this
-cagegories:
-	-blog
+tag: [web test2]
+category:dev
 ---
 
 
