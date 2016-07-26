@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Example content
-comments:true
-category:misc
-tags: jekyll
 ---
 
 
