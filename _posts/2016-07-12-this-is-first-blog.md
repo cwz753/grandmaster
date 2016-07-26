@@ -1,8 +1,6 @@
 ---
 layout: post
 title: This is the first Blog
-category:dev
-tags: [web test2]
 ---
 
 
