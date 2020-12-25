@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Example content
-category: programming
-tags:[testtag2,testtag1]
+category: init
+tags: [init1,init2]
 ---
 
 

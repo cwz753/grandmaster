@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Examples
 category: Template
-tags:template
+tags: template
 ---
 
 1. Text/Emphasis
@@ -190,7 +190,7 @@ Some text to show that the reference links can follow later.
 6.1 Image 
 Here's our logo (hover to see the title text):
 6.1.1 Inline-style: 
-eg1. ![GitHub Logo](/images/logo.png)
+eg1. ![GitHub Logo](../../public/images/logo.png)
 
 eg2. ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: This is the first Blog
-category: programming1
-tags:tag1
+category: init
+tags: init
 ---
 
 
