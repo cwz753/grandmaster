@@ -2,7 +2,7 @@
 layout: post
 title: Example content
 category: init
-tags: [init1,init2]
+tags: init
 ---
 
 

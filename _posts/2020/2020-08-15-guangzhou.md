@@ -3,9 +3,7 @@ layout: post
 title: 竹子4&VE3随心飞之旅——羊城广州
 category: 2020随心飞
 tags: 在路上
-
 ---
-
 
 
 前记
@@ -13,7 +11,6 @@ tags: 在路上
 广州虽然地处南方 但气温比上海低了好几度 也算来广州避暑了。
 
 ![avatar](../../../../../public/img/img-2020/UNADJUSTEDNONRAW_thumb_a3.jpg)
-
 
 行
 去程 上海航空FM9305
