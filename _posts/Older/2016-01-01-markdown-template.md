@@ -4,7 +4,8 @@ title: Markdown Examples
 category: Template
 tags: [template,init]
 ---
-
+Example markdown styles...
+<!-- more -->
 1. Text/Emphasis
 .1.1 Bold
 .1.2 Italic

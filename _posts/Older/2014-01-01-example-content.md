@@ -3,7 +3,12 @@ layout: post
 title: Example content
 category: init
 tags: init
+subtitle: subtitle
+author: cwz753
+excerpt: test excerpt1
 ---
+or test excerpt2
+<!-- more -->
 
 
 <div class="message">

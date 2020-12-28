@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+<!-- cwz: note: this is the template for each post -->
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <h5 class="post-subtitle">{{ page.subtitle  }}</h5>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.tags %} | 
   {% for tag in page.tags %}
