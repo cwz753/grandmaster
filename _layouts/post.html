@@ -13,6 +13,10 @@ layout: default
   {% endfor %}
   {% endif %}
   <article>
+    <!-- 在正文开头添加网易云音乐插件 -->
+    {% if page.music-id %}
+    {% include music.html %}
+    {% endif %} 
     {{ content }}
   </article>
 </div>
@@ -32,6 +36,8 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+{% include comment.html %}
 
 {% if site.disqus_short_name %}
 <div class="comments">

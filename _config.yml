@@ -9,7 +9,7 @@ logo: '/public/logo.png'
 # Site configurations
 gems:
   - jekyll-paginate
-markdown: kramdown
+markdown: kramdown ##用kramdown自动生成目录树
 kramdown:
   input: GFM
 excerpt_separator: "<!-- more -->"
@@ -50,19 +50,26 @@ nav:
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
-  Github Project: 
-    - 'http://codinfox.github.io/'
+  #Github Project: 
+  #  - 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-hero:
+cover:
   image: /public/img/july_16.jpg
   caption: Original Artwork &copy; <a href="https://www.smashingmagazine.com/2016/06/desktop-wallpaper-calendars-july-2016/">Smashing Magazine</a>
 
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'disqush....distingeeeee' # leave blank if you don't want disqus
+disqus_short_name: # leave blank if you don't want disqus
 
+
+#Gitment
+gitment_owner: 'cwz753'
+gitment_repo: 'lvqunbai'
+gitment_oauth:
+  client_id: a5a18f9b94cc8d3d9572
+  client_secrete: 3cd2dfa7b2d1c84063b667e58d99f511c7e41618

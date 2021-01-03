@@ -6,14 +6,29 @@ tags: init
 subtitle: subtitle
 author: cwz753
 excerpt: test excerpt1
+music-id: 1804952315
+music-name: All I Want for Christmas Is You
 ---
 or test excerpt2
 <!-- more -->
 
 
+<!-- 
+layout：布局就用页面的布局
+title：标题
+titlebar：标题栏
+menu：菜单栏，这个用于_config.yml文件中的.menu菜单的显示
+permalink：这个页面的链接
+excerpt: 节选 page 页面
+music-id：网易云音乐里分享时的id
+music-name: 网易云音乐歌名，做个记录
+ -->
+
+ 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
+
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

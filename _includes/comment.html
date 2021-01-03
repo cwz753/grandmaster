@@ -1,0 +1,23 @@
+{% if site.gitment_repo %}
+<div id="gitmentContainer"></div>
+<!-- <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"> -->
+<!-- <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script> -->
+
+<!--to support chinese--->
+<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
+<script src="https://billts.site/js/gitment.js"></script>
+
+<script>
+    var gitment = new Gitment({
+		id: '<%= page.date %>',
+        owner: '{{site.gitment_owner}}',
+        repo: '{{site.gitment_repo}}',
+        oauth: {
+            client_id: '{{site.gitment_oauth.client_id}}',
+            client_secret: '{{site.gitment_oauth.client_secrete}}',
+        },
+    });
+    gitment.render('gitmentContainer')
+</script>
+{% endif %}
+
