@@ -9,7 +9,8 @@
 
 <script>
     var gitment = new Gitment({
-		id: '<%= page.date %>',
+		// id: '<%= page.date %>',
+        id: '<%= page.title %>',
         owner: '{{site.gitment_owner}}',
         repo: '{{site.gitment_repo}}',
         oauth: {
